@@ -1,4 +1,4 @@
-# AplikasiPeminjamanBuku
+# Aplikasi Peminjaman Buku
 Aplikasi peminjaman buku menggunakan java netbeans
 <h3>Persyaratan</h3>
 <p>apa saja persyaratan untuk menjalankan project ini</p>
