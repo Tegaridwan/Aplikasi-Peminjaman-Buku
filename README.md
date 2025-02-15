@@ -3,7 +3,7 @@ Aplikasi peminjaman buku menggunakan java netbeans
 <h3>Persyaratan</h3>
 <p>apa saja persyaratan untuk menjalankan project ini</p>
 <li>XAMPP</li>
-<li>JDK 7 atau 8</li>
+<li>JDK 7 atau 8 (Kalau bisa yang versi terbaru)</li>
 <li>Apache Netbeans</li>
 <h3>Cara Impor database</h3>
 <ul>1.Buat database terlebih dahulu pada //localhost/phpmyadmin/ dengan nama "perpustakaan"</ul>
