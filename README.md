@@ -15,6 +15,6 @@ Aplikasi peminjaman buku menggunakan java netbeans
 <ul>3.buka folder anda menyimpan aplikasi tersebut</ul>
 <ul>4.aktifkan dulu localhost</ul>
 <ul>5.klik tombol run yang ada di atas</ul>
-<ul>Atau install file perpustakaan-x86_64.exe di pc kalian<ul>
+<ul>6.Atau install file perpustakaan-x86_64.exe di pc kalian<ul>
 <ul>Aplikasi siap digunakan</ul>
 
